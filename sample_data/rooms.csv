@@ -1,0 +1,25 @@
+room_account,name,site,floor,capacity,priority
+mad-boardroom@contoso.example,Madrid · Boardroom,Madrid,7,18,yes
+mad-retiro@contoso.example,Madrid · Retiro,Madrid,7,10,yes
+mad-prado@contoso.example,Madrid · Prado,Madrid,6,8,no
+mad-atocha@contoso.example,Madrid · Atocha,Madrid,6,8,no
+mad-lavapies@contoso.example,Madrid · Lavapies,Madrid,5,6,no
+mad-chamberi@contoso.example,Madrid · Chamberi,Madrid,5,6,no
+mad-malasana@contoso.example,Madrid · Malasana,Madrid,4,4,no
+mad-salamanca@contoso.example,Madrid · Salamanca,Madrid,4,4,no
+mad-arganzuela@contoso.example,Madrid · Arganzuela,Madrid,3,12,no
+mad-tetuan@contoso.example,Madrid · Tetuan,Madrid,3,6,no
+par-concorde@contoso.example,Paris · Concorde,Paris,5,16,yes
+par-opera@contoso.example,Paris · Opera,Paris,5,8,no
+par-marais@contoso.example,Paris · Marais,Paris,4,6,no
+par-bastille@contoso.example,Paris · Bastille,Paris,4,6,no
+par-montmartre@contoso.example,Paris · Montmartre,Paris,3,4,no
+par-belleville@contoso.example,Paris · Belleville,Paris,3,4,no
+par-pigalle@contoso.example,Paris · Pigalle,Paris,2,10,no
+lis-alfama@contoso.example,Lisbon · Alfama,Lisbon,2,10,yes
+lis-chiado@contoso.example,Lisbon · Chiado,Lisbon,2,6,no
+lis-belem@contoso.example,Lisbon · Belem,Lisbon,1,6,no
+lis-graca@contoso.example,Lisbon · Graca,Lisbon,1,4,no
+lis-baixa@contoso.example,Lisbon · Baixa,Lisbon,1,4,no
+lis-estrela@contoso.example,Lisbon · Estrela,Lisbon,1,8,no
+lis-alcantara@contoso.example,Lisbon · Alcantara,Lisbon,1,6,no

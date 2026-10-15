@@ -1,0 +1,2578 @@
+{
+  "value": [
+    {
+      "id": "00000000-0000-4000-8000-000000000001",
+      "deviceType": "teamsRoom",
+      "healthStatus": "degraded",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Crestron",
+        "model": "Flex UC-B160-T",
+        "serialNumber": "DEMO00001"
+      },
+      "currentUser": {
+        "displayName": "Madrid Boardroom",
+        "userPrincipalName": "mad-boardroom@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:26:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:26:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:26:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "disconnected",
+            "lastModifiedDateTime": "2026-10-19T07:26:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:26:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:26:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:26:00Z"
+            },
+            "isOptional": false
+          },
+          "contentCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:26:00Z"
+            },
+            "isOptional": true
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:26:00Z"
+              }
+            },
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:26:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:26:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:26:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "5.2.115.0",
+            "availableVersion": "5.2.115.0"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "10.0.22631",
+            "availableVersion": "10.0.22631"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.4.2",
+            "availableVersion": "1.4.2"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000002",
+      "deviceType": "teamsRoom",
+      "healthStatus": "healthy",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Crestron",
+        "model": "Flex UC-B160-T",
+        "serialNumber": "DEMO00002"
+      },
+      "currentUser": {
+        "displayName": "Madrid Retiro",
+        "userPrincipalName": "mad-retiro@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:25:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:25:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:25:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:25:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:25:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:25:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:25:00Z"
+            },
+            "isOptional": false
+          },
+          "contentCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:25:00Z"
+            },
+            "isOptional": true
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:25:00Z"
+              }
+            },
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:25:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:25:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:25:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "5.2.115.0",
+            "availableVersion": "5.2.115.0"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "10.0.22631",
+            "availableVersion": "10.0.22631"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.4.2",
+            "availableVersion": "1.4.2"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000003",
+      "deviceType": "teamsRoom",
+      "healthStatus": "critical",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Crestron",
+        "model": "Flex UC-B160-T",
+        "serialNumber": "DEMO00003"
+      },
+      "currentUser": {
+        "displayName": "Madrid Prado",
+        "userPrincipalName": "mad-prado@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:24:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:24:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:24:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:24:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "disconnected",
+              "lastModifiedDateTime": "2026-10-19T07:24:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:24:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:24:00Z"
+            },
+            "isOptional": false
+          },
+          "contentCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:24:00Z"
+            },
+            "isOptional": true
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:24:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:24:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:24:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "5.2.115.0",
+            "availableVersion": "5.2.115.0"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "10.0.22631",
+            "availableVersion": "10.0.22631"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.4.2",
+            "availableVersion": "1.4.2"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000004",
+      "deviceType": "teamsRoom",
+      "healthStatus": "healthy",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Logitech",
+        "model": "Tap + Rally Bar",
+        "serialNumber": "DEMO00004"
+      },
+      "currentUser": {
+        "displayName": "Madrid Atocha",
+        "userPrincipalName": "mad-atocha@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:23:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:23:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:23:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:23:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:23:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:23:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:23:00Z"
+            },
+            "isOptional": false
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:23:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:23:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:23:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "5.2.115.0",
+            "availableVersion": "5.2.115.0"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "10.0.22631",
+            "availableVersion": "10.0.22631"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.12.4",
+            "availableVersion": "1.12.4"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000005",
+      "deviceType": "teamsRoom",
+      "healthStatus": "healthy",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Logitech",
+        "model": "Tap + Rally Bar",
+        "serialNumber": "DEMO00005"
+      },
+      "currentUser": {
+        "displayName": "Madrid Lavapies",
+        "userPrincipalName": "mad-lavapies@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:22:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:22:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:22:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:22:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:22:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:22:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:22:00Z"
+            },
+            "isOptional": false
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:22:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:22:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:22:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "5.2.115.0",
+            "availableVersion": "5.2.115.0"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "10.0.22631",
+            "availableVersion": "10.0.22631"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.12.4",
+            "availableVersion": "1.12.4"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000006",
+      "deviceType": "teamsRoom",
+      "healthStatus": "healthy",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Logitech",
+        "model": "Tap + Rally Bar",
+        "serialNumber": "DEMO00006"
+      },
+      "currentUser": {
+        "displayName": "Madrid Chamberi",
+        "userPrincipalName": "mad-chamberi@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:21:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:21:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:21:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:21:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:21:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:21:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:21:00Z"
+            },
+            "isOptional": false
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:21:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:21:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:21:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "5.2.115.0",
+            "availableVersion": "5.2.115.0"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "10.0.22631",
+            "availableVersion": "10.0.22631"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.12.4",
+            "availableVersion": "1.12.4"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000007",
+      "deviceType": "collaborationBar",
+      "healthStatus": "healthy",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Poly",
+        "model": "Studio X50",
+        "serialNumber": "DEMO00007"
+      },
+      "currentUser": {
+        "displayName": "Madrid Malasana",
+        "userPrincipalName": "mad-malasana@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:20:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:20:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:20:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:20:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:20:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:20:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:20:00Z"
+            },
+            "isOptional": false
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:20:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:20:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:20:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1449/1.0.96.2024",
+            "availableVersion": "1449/1.0.96.2024"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "4.1.0",
+            "availableVersion": "4.1.0"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "4.1.0-418",
+            "availableVersion": "4.1.0-418"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000008",
+      "deviceType": "collaborationBar",
+      "healthStatus": "healthy",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Poly",
+        "model": "Studio X50",
+        "serialNumber": "DEMO00008"
+      },
+      "currentUser": {
+        "displayName": "Madrid Salamanca",
+        "userPrincipalName": "mad-salamanca@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:19:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:19:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:19:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:19:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:19:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:19:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:19:00Z"
+            },
+            "isOptional": false
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:19:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:19:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:19:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1449/1.0.96.2024",
+            "availableVersion": "1449/1.0.96.2024"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "4.1.0",
+            "availableVersion": "4.1.0"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "4.1.0-418",
+            "availableVersion": "4.1.0-418"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000009",
+      "deviceType": "teamsRoom",
+      "healthStatus": "healthy",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Crestron",
+        "model": "Flex UC-B160-T",
+        "serialNumber": "DEMO00009"
+      },
+      "currentUser": {
+        "displayName": "Madrid Arganzuela",
+        "userPrincipalName": "mad-arganzuela@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:18:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:18:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:18:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:18:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:18:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:18:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:18:00Z"
+            },
+            "isOptional": false
+          },
+          "contentCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:18:00Z"
+            },
+            "isOptional": true
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:18:00Z"
+              }
+            },
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:18:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:18:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:18:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "5.2.115.0",
+            "availableVersion": "5.2.115.0"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "10.0.22631",
+            "availableVersion": "10.0.22631"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.4.2",
+            "availableVersion": "1.4.2"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000010",
+      "deviceType": "teamsRoom",
+      "healthStatus": "healthy",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Logitech",
+        "model": "Tap + Rally Bar",
+        "serialNumber": "DEMO00010"
+      },
+      "currentUser": {
+        "displayName": "Madrid Tetuan",
+        "userPrincipalName": "mad-tetuan@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:17:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:17:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:17:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:17:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:17:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:17:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:17:00Z"
+            },
+            "isOptional": false
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:17:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:17:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:17:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "5.2.115.0",
+            "availableVersion": "5.2.115.0"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "10.0.22631",
+            "availableVersion": "10.0.22631"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.11.9",
+            "availableVersion": "1.12.4"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000011",
+      "deviceType": "teamsRoom",
+      "healthStatus": "critical",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Crestron",
+        "model": "Flex UC-B160-T",
+        "serialNumber": "DEMO00011"
+      },
+      "currentUser": {
+        "displayName": "Paris Concorde",
+        "userPrincipalName": "par-concorde@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:16:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:16:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "disconnected",
+            "lastModifiedDateTime": "2026-10-19T07:16:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:16:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:16:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:16:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:16:00Z"
+            },
+            "isOptional": false
+          },
+          "contentCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:16:00Z"
+            },
+            "isOptional": true
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:16:00Z"
+              }
+            },
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:16:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:16:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:16:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "5.2.115.0",
+            "availableVersion": "5.2.115.0"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "10.0.22631",
+            "availableVersion": "10.0.22631"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.4.2",
+            "availableVersion": "1.4.2"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000012",
+      "deviceType": "teamsRoom",
+      "healthStatus": "offline",
+      "activityState": "unknown",
+      "hardwareDetail": {
+        "manufacturer": "Crestron",
+        "model": "Flex UC-B160-T",
+        "serialNumber": "DEMO00012"
+      },
+      "currentUser": {
+        "displayName": "Paris Opera",
+        "userPrincipalName": "par-opera@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-18T17:30:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "disconnected",
+          "lastModifiedDateTime": "2026-10-18T17:30:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "disconnected",
+            "lastModifiedDateTime": "2026-10-18T17:30:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "disconnected",
+            "lastModifiedDateTime": "2026-10-18T17:30:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-18T17:30:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-18T17:30:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-18T17:30:00Z"
+            },
+            "isOptional": false
+          },
+          "contentCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-18T17:30:00Z"
+            },
+            "isOptional": true
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-18T17:30:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-18T17:30:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-18T17:30:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "5.2.115.0",
+            "availableVersion": "5.2.115.0"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "10.0.22631",
+            "availableVersion": "10.0.22631"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.4.2",
+            "availableVersion": "1.4.2"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000013",
+      "deviceType": "teamsRoom",
+      "healthStatus": "healthy",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Logitech",
+        "model": "Tap + Rally Bar",
+        "serialNumber": "DEMO00013"
+      },
+      "currentUser": {
+        "displayName": "Paris Marais",
+        "userPrincipalName": "par-marais@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:14:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:14:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:14:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:14:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:14:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:14:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:14:00Z"
+            },
+            "isOptional": false
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:14:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:14:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:14:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "5.2.115.0",
+            "availableVersion": "5.2.115.0"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "10.0.22631",
+            "availableVersion": "10.0.22631"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.12.4",
+            "availableVersion": "1.12.4"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000014",
+      "deviceType": "teamsRoom",
+      "healthStatus": "nonUrgent",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Logitech",
+        "model": "Tap + Rally Bar",
+        "serialNumber": "DEMO00014"
+      },
+      "currentUser": {
+        "displayName": "Paris Bastille",
+        "userPrincipalName": "par-bastille@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:13:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:13:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:13:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:13:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:13:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:13:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:13:00Z"
+            },
+            "isOptional": false
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:13:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:13:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "disconnected",
+              "lastModifiedDateTime": "2026-10-19T07:13:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "5.2.115.0",
+            "availableVersion": "5.2.115.0"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "10.0.22631",
+            "availableVersion": "10.0.22631"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.12.4",
+            "availableVersion": "1.12.4"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000015",
+      "deviceType": "collaborationBar",
+      "healthStatus": "healthy",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Poly",
+        "model": "Studio X50",
+        "serialNumber": "DEMO00015"
+      },
+      "currentUser": {
+        "displayName": "Paris Montmartre",
+        "userPrincipalName": "par-montmartre@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:12:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:12:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:12:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:12:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:12:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:12:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:12:00Z"
+            },
+            "isOptional": false
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:12:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:12:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:12:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1449/1.0.96.2024",
+            "availableVersion": "1449/1.0.96.2024"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "4.1.0",
+            "availableVersion": "4.1.0"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "4.1.0-418",
+            "availableVersion": "4.1.0-418"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000016",
+      "deviceType": "collaborationBar",
+      "healthStatus": "healthy",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Poly",
+        "model": "Studio X50",
+        "serialNumber": "DEMO00016"
+      },
+      "currentUser": {
+        "displayName": "Paris Belleville",
+        "userPrincipalName": "par-belleville@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:11:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:11:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:11:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:11:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:11:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:11:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:11:00Z"
+            },
+            "isOptional": false
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:11:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:11:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:11:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1449/1.0.96.2024",
+            "availableVersion": "1449/1.0.96.2024"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "4.1.0",
+            "availableVersion": "4.1.0"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "4.1.0-418",
+            "availableVersion": "4.1.0-418"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000017",
+      "deviceType": "teamsRoom",
+      "healthStatus": "degraded",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Crestron",
+        "model": "Flex UC-B160-T",
+        "serialNumber": "DEMO00017"
+      },
+      "currentUser": {
+        "displayName": "Paris Pigalle",
+        "userPrincipalName": "par-pigalle@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:10:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:10:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:10:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:10:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:10:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:10:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:10:00Z"
+            },
+            "isOptional": false
+          },
+          "contentCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:10:00Z"
+            },
+            "isOptional": true
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:10:00Z"
+              }
+            },
+            {
+              "connection": {
+                "connectionStatus": "disconnected",
+                "lastModifiedDateTime": "2026-10-19T07:10:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:10:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:10:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "5.2.115.0",
+            "availableVersion": "5.2.115.0"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "10.0.22631",
+            "availableVersion": "10.0.22631"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.4.2",
+            "availableVersion": "1.4.2"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000018",
+      "deviceType": "teamsRoom",
+      "healthStatus": "healthy",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Crestron",
+        "model": "Flex UC-B160-T",
+        "serialNumber": "DEMO00018"
+      },
+      "currentUser": {
+        "displayName": "Lisbon Alfama",
+        "userPrincipalName": "lis-alfama@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:09:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:09:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:09:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:09:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:09:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:09:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:09:00Z"
+            },
+            "isOptional": false
+          },
+          "contentCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:09:00Z"
+            },
+            "isOptional": true
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:09:00Z"
+              }
+            },
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:09:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:09:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:09:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "5.2.115.0",
+            "availableVersion": "5.2.115.0"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "10.0.22631",
+            "availableVersion": "10.0.22631"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.4.2",
+            "availableVersion": "1.4.2"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000019",
+      "deviceType": "teamsRoom",
+      "healthStatus": "nonUrgent",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Logitech",
+        "model": "Tap + Rally Bar",
+        "serialNumber": "DEMO00019"
+      },
+      "currentUser": {
+        "displayName": "Lisbon Chiado",
+        "userPrincipalName": "lis-chiado@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:08:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:08:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:08:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:08:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:08:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:08:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:08:00Z"
+            },
+            "isOptional": false
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:08:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:08:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:08:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "outdated",
+            "currentVersion": "5.1.33.0",
+            "availableVersion": "5.2.115.0"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "10.0.22631",
+            "availableVersion": "10.0.22631"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.12.4",
+            "availableVersion": "1.12.4"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000020",
+      "deviceType": "teamsRoom",
+      "healthStatus": "nonUrgent",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Logitech",
+        "model": "Tap + Rally Bar",
+        "serialNumber": "DEMO00020"
+      },
+      "currentUser": {
+        "displayName": "Lisbon Belem",
+        "userPrincipalName": "lis-belem@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:07:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:07:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:07:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:07:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:07:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:07:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:07:00Z"
+            },
+            "isOptional": false
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:07:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:07:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:07:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "outdated",
+            "currentVersion": "5.1.33.0",
+            "availableVersion": "5.2.115.0"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "10.0.22631",
+            "availableVersion": "10.0.22631"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.12.4",
+            "availableVersion": "1.12.4"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000021",
+      "deviceType": "collaborationBar",
+      "healthStatus": "healthy",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Poly",
+        "model": "Studio X50",
+        "serialNumber": "DEMO00021"
+      },
+      "currentUser": {
+        "displayName": "Lisbon Graca",
+        "userPrincipalName": "lis-graca@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:06:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:06:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:06:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:06:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:06:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:06:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:06:00Z"
+            },
+            "isOptional": false
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:06:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:06:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:06:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1449/1.0.96.2024",
+            "availableVersion": "1449/1.0.96.2024"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "4.1.0",
+            "availableVersion": "4.1.0"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "4.1.0-418",
+            "availableVersion": "4.1.0-418"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000022",
+      "deviceType": "collaborationBar",
+      "healthStatus": "healthy",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Poly",
+        "model": "Studio X50",
+        "serialNumber": "DEMO00022"
+      },
+      "currentUser": {
+        "displayName": "Lisbon Baixa",
+        "userPrincipalName": "lis-baixa@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-18T22:20:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-18T22:20:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-18T22:20:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-18T22:20:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-18T22:20:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-18T22:20:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-18T22:20:00Z"
+            },
+            "isOptional": false
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-18T22:20:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-18T22:20:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-18T22:20:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1449/1.0.96.2024",
+            "availableVersion": "1449/1.0.96.2024"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "4.1.0",
+            "availableVersion": "4.1.0"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "4.1.0-418",
+            "availableVersion": "4.1.0-418"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000023",
+      "deviceType": "teamsRoom",
+      "healthStatus": "critical",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Crestron",
+        "model": "Flex UC-B160-T",
+        "serialNumber": "DEMO00023"
+      },
+      "currentUser": {
+        "displayName": "Lisbon Estrela",
+        "userPrincipalName": "lis-estrela@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:04:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:04:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:04:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:04:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:04:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "disconnected",
+              "lastModifiedDateTime": "2026-10-19T07:04:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:04:00Z"
+            },
+            "isOptional": false
+          },
+          "contentCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:04:00Z"
+            },
+            "isOptional": true
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:04:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:04:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:04:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "5.2.115.0",
+            "availableVersion": "5.2.115.0"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "10.0.22631",
+            "availableVersion": "10.0.22631"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.4.2",
+            "availableVersion": "1.4.2"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000024",
+      "deviceType": "teamsRoom",
+      "healthStatus": "healthy",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Logitech",
+        "model": "Tap + Rally Bar",
+        "serialNumber": "DEMO00024"
+      },
+      "currentUser": {
+        "displayName": "Lisbon Alcantara",
+        "userPrincipalName": "lis-alcantara@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:03:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:03:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:03:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:03:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:03:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:03:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:03:00Z"
+            },
+            "isOptional": false
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:03:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:03:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:03:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "5.2.115.0",
+            "availableVersion": "5.2.115.0"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "10.0.22631",
+            "availableVersion": "10.0.22631"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.12.4",
+            "availableVersion": "1.12.4"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    },
+    {
+      "id": "00000000-0000-4000-8000-000000000025",
+      "deviceType": "teamsRoom",
+      "healthStatus": "healthy",
+      "activityState": "idle",
+      "hardwareDetail": {
+        "manufacturer": "Logitech",
+        "model": "Tap + Rally Bar",
+        "serialNumber": "DEMO00025"
+      },
+      "currentUser": {
+        "displayName": "Madrid Lab",
+        "userPrincipalName": "mad-room-lab@contoso.example"
+      },
+      "lastModifiedDateTime": "2026-10-19T07:02:00Z",
+      "health": {
+        "connection": {
+          "connectionStatus": "connected",
+          "lastModifiedDateTime": "2026-10-19T07:02:00Z"
+        },
+        "loginStatus": {
+          "teamsConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:02:00Z"
+          },
+          "exchangeConnection": {
+            "connectionStatus": "connected",
+            "lastModifiedDateTime": "2026-10-19T07:02:00Z"
+          }
+        },
+        "peripheralsHealth": {
+          "roomCameraHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:02:00Z"
+            },
+            "isOptional": false
+          },
+          "microphoneHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:02:00Z"
+            },
+            "isOptional": false
+          },
+          "speakerHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:02:00Z"
+            },
+            "isOptional": false
+          },
+          "displayHealthCollection": [
+            {
+              "connection": {
+                "connectionStatus": "connected",
+                "lastModifiedDateTime": "2026-10-19T07:02:00Z"
+              }
+            }
+          ]
+        },
+        "hardwareHealth": {
+          "computeHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:02:00Z"
+            }
+          },
+          "hdmiIngestHealth": {
+            "connection": {
+              "connectionStatus": "connected",
+              "lastModifiedDateTime": "2026-10-19T07:02:00Z"
+            }
+          }
+        },
+        "softwareUpdateHealth": {
+          "teamsClientSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "5.2.115.0",
+            "availableVersion": "5.2.115.0"
+          },
+          "operatingSystemSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "10.0.22631",
+            "availableVersion": "10.0.22631"
+          },
+          "firmwareSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.12.4",
+            "availableVersion": "1.12.4"
+          },
+          "adminAgentSoftwareUpdateStatus": {
+            "softwareFreshness": "latest",
+            "currentVersion": "1.0.0.202409",
+            "availableVersion": "1.0.0.202409"
+          }
+        }
+      }
+    }
+  ]
+}
