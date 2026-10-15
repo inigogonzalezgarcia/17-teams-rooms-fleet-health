@@ -89,7 +89,7 @@ Built from my work supporting Microsoft Teams Rooms on Crestron in two offices (
 
 Want this adapted to your rooms (your sites and priorities, other device brands, a scheduled morning email, integration with your ticketing tool)? Get in touch:
 
-- Email: [inigogonzalezgarcia@yahoo.es](mailto:inigogonzalezgarcia@yahoo.es)
+- Website (contact form): [inigogonzalezgarcia.github.io](https://inigogonzalezgarcia.github.io/about.html#contacto)
 - LinkedIn: [linkedin.com/in/igonzalez93](https://www.linkedin.com/in/igonzalez93)
 
 ## License
