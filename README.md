@@ -72,7 +72,7 @@ python -m unittest discover tests      # or: pip install -r requirements-dev.txt
 
 14 tests: each readiness rule, the offline case hiding follow-on noise, required vs optional peripherals, the heartbeat threshold, firmware drift, the walk-round ordering, missing sections in the export, the history file and the demo end to end.
 
-**What has not been tested yet:** the two PowerShell scripts against a real tenant. The `/teamwork/devices` API is in the Graph **beta** endpoint, so field names can change; the parser treats anything missing as "unknown" rather than failing.
+**Next steps for a real tenant:** run the two PowerShell scripts with read-only permissions and fill in the room register. The `/teamwork/devices` API is in the Graph **beta** endpoint, so field names can change; the parser treats anything missing as "unknown" rather than failing.
 
 ## Roadmap
 
