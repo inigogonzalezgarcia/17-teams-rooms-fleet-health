@@ -91,9 +91,9 @@ def _trend(rows: list[dict]) -> str:
 
 
 CSS = """
-:root{--bg:#f7f7f5;--card:#fff;--ink:#1d2329;--muted:#66707a;--line:#e3e5e8;--ok:#1f7a4d;--warn:#a86400;--bad:#b42318;--accent:#2f5d8a}
+:root{--bg:#f2eee6;--card:#fbf8f3;--ink:#0e1a24;--muted:#5d6670;--line:#e2dccf;--ok:#1f7a4d;--warn:#a86400;--bad:#b42318;--accent:#2f5d8a}
 @media (prefers-color-scheme:dark){:root{--bg:#14181c;--card:#1c2228;--ink:#e8eaed;--muted:#9aa4ae;--line:#2c343c;--ok:#4cc38a;--warn:#f0a83a;--bad:#f2685c;--accent:#7fb0e0}}
-*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,Segoe UI,sans-serif}
+*{box-sizing:border-box}body{border-top:4px solid #c4672b}h1{font-weight:800;letter-spacing:-.025em;text-transform:uppercase;line-height:1.05}h1::before{content:"IGG · IT Ops toolkit";display:block;font:600 11px/1.4 ui-monospace,SFMono-Regular,Menlo,monospace;letter-spacing:.14em;text-transform:uppercase;color:#c4672b;margin-bottom:10px}body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,Segoe UI,sans-serif}
 main{max-width:1100px;margin:0 auto;padding:28px 18px 60px}h1{font-size:26px;margin:0 0 4px}h2{font-size:18px;margin:34px 0 12px}
 .muted{color:var(--muted)}.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin-top:20px}
 .tile{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px}.tile b{display:block;font-size:28px}
